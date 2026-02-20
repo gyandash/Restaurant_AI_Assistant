@@ -1,4 +1,4 @@
-## Restaurant AI Assistant
+## GoodFoods Reservation System
 
 ### Overview
 GoodFoods is a conversational AI that helps users discover restaurants and book tables across Bangalore. It uses OpenAI function-calling to search restaurants and confirm reservations via a FastAPI backend, wrapped in a modern Streamlit chat UI.
